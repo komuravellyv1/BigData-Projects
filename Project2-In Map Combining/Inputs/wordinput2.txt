@@ -1,0 +1,18 @@
+Hi My Name is Venkat
+I am From India
+My College is UD
+I Venkat lives in Dayton
+I love my india
+An important research question that can be asked about big data sets is whether you
+ need to look at the full data to draw certain conclusions about the properties of the data
+ or is a sample good enough. The name big data itself contains a term related to size and this 
+is an important characteristic of big data. But Sampling statistics enables the selection of right data 
+points from within the larger data set to estimate the characteristics of the whole population. For example
+ there are about million tweets produced every day. Is it necessary to look at all of them to determine the topics
+ that are discussed during the day Is it necessary to look at all the tweets to determine the sentiment on each of the 
+topics In manufacturing different types of sensory data such as acoustics, vibration, pressure, current
+ voltage and controller data are available at short time intervals. To predict downtime it may not be 
+necessary to look at all the data but a sample may be sufficient Big Data can be broken down by various
+ data point categories such as demographic psychographic behavioral and transactional data With large sets
+ of data points, marketers are able to create and utilize more customized segments of consumers for more strategic targeting.
+There has been some work done in Sampling algorithms for big data. A theoretical formulation for sampling Twitter data has been developed
